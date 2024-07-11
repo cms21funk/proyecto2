@@ -1,0 +1,27 @@
+.bg-verde{
+
+    background-color: #28A745;
+}
+
+.text-verde{
+
+    color: #28A745;
+    font-weight: bold;
+    font-family: Tahoma;
+ 
+}
+
+.text-rojo{
+
+    color: red;
+    font-family: Tahoma;
+    
+}
+
+
+.size-img{
+
+    width:130px;
+    height: 60px;
+    
+}
